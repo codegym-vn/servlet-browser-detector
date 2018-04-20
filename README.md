@@ -1,0 +1,1 @@
+Simple Browser Detector used as demo at [CodeGym](https://codegym.vn)
